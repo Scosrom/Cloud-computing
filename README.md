@@ -33,6 +33,18 @@ El Cloud Computing ha revolucionado la informática al proporcionar acceso remot
 5.- [Ventajas e inconvenientes de Cloud Computing.](venteinco.md)
 
 ## Referencias
+<p align="center">
+  <a href="https://cloud.google.com/learn/what-is-cloud-computing?hl=es">
+    <img src="/img/google.png" alt="Google Cloud Documentation">
+  </a>
+  <a href="https://grafana.com/docs/grafana/latest/">
+    <img src="/img/grafana_logo_icon_171048.png" alt="Grafana Documentation">
+  </a>
+  <a href="https://www.debian.org/doc/index.es.html">
+    <img src="/img/debian_original_logo_icon_146566.png" alt="Debian Documentation">
+  </a>
+</p>
+
 
 ## Licencia
 
