@@ -1,3 +1,6 @@
+![image](https://github.com/Scosrom/Cloud-computing/assets/114906778/61557bb8-2f6e-4e1f-afbd-042133c66ae6)
+
+
 Las características clave de Cloud Computing incluyen:
 
 - **Auto-servicio bajo demanda:** Los usuarios pueden acceder y gestionar recursos de manera autónoma según sus necesidades, sin intervención directa del proveedor de servicios.
