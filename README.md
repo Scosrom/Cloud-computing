@@ -1,6 +1,6 @@
 # Cloud-computing
 
-
+![licencia](/img/cloud.png)
 
 ## Introducción
 
