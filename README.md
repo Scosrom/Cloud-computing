@@ -1,7 +1,6 @@
 # Cloud-computing
 
 ![licencia](/img/cloud.png)
-
 ## Introducción
 
 El Cloud Computing ha revolucionado la informática al proporcionar acceso remoto a recursos informáticos a través de internet. Este enfoque elimina la necesidad de infraestructura local, permitiendo escalabilidad y flexibilidad. En este repositorio, exploraremos los fundamentos del Cloud Computing y sus beneficios para empresas y usuarios individuales. 
