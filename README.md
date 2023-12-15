@@ -25,5 +25,5 @@ El Cloud Computing ha revolucionado la informática al proporcionar acceso remot
 ## Licencia
 
 <p align="center">
-  <img src="/img/88x31.png" alt="licencia">
+  <img src="/img/licencia.png" alt="licencia">
 </p>
