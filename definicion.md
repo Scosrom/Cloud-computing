@@ -1,1 +1,3 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.masip.es%2Fblog%2Fservicios-cloud-y-sus-ventajas%2F&psig=AOvVaw2y0x8WE_-B66kx0-iMa_VP&ust=1702733368245000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCq6aDGkYMDFQAAAAAdAAAAABAD
+
 La computación en la nube, o Cloud Computing, es un modelo tecnológico que permite acceder a recursos informáticos, como almacenamiento y procesamiento, a través de internet. En lugar de depender de servidores locales, los usuarios pueden utilizar y pagar solo por los recursos que necesitan, lo que brinda flexibilidad y escalabilidad. Este enfoque transforma la forma en que se gestionan y entregan servicios de tecnología de la información, facilitando el acceso a aplicaciones y datos de manera remota
