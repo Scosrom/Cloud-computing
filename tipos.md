@@ -1,4 +1,5 @@
 # Tipos de nube
+![image](https://github.com/camposchaconjosemaria/Cloud-computing/assets/114906855/6f5f6c99-1c7c-4c81-9ff0-c7d8e085c27d)
 
 **Nubes Públicas:**
 - Ambientes de nube creados por proveedores externos como Alibaba Cloud, AWS, Google Cloud, IBM Cloud y Microsoft Azure.

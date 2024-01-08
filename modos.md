@@ -1,5 +1,8 @@
 ## Tipos de Servicios de Computación en la Nube
 
+![image](https://github.com/camposchaconjosemaria/Cloud-computing/assets/114906855/e2fe746b-cc34-43d7-83e6-f871fb3c75b3)
+
+
 ### Infraestructura como Servicio (IaaS)
 - Contiene elementos básicos para el funcionamiento de servicios de cloud computing.
 - Ofrece alquiler de infraestructura de IT (virtual o física) y funciones de red.
